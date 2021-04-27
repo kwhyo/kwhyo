@@ -3,6 +3,7 @@
 🎓 광운대학교 컴퓨터정보공학부 정보공학전공(2017.03 ~) 
 
 🌱 코더스하이 광운대학교 iOS 특강교육 과정 수료 - "아르바이트생 일정관리위한 ios 어플리케이션"
+  https://github.com/ProjectInTheClass/Parttime_Job
 
 🌱 산학연계 SW 프로젝트 - "딥러닝 네트워크 경량화" 
 
